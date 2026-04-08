@@ -27,19 +27,19 @@ while True:
     choice = input("Select option: ")
 
     if choice == "1":
-        os.system("py tools/admin-finder/admin_finder.py")
+        os.system("pytho3 tools/admin-finder/admin_finder.py")
 
     elif choice == "2":
-        os.system("py tools/subdomains_finder/sub_finder.py")
+        os.system("python3 tools/subdomains_finder/sub_finder.py")
 
     elif choice == "3":
-        os.system("py tools/directory_finder/dir_finder.py")
+        os.system("python3 tools/directory_finder/dir_finder.py")
 
     elif choice == "4":
-        os.system("py tools/tech_detector/tech_detector.py")
+        os.system("python3 tools/tech_detector/tech_detector.py")
 
     elif choice == "5":
-        os.system("py tools/js_finder/js_finder.py")
+        os.system("python3 tools/js_finder/js_finder.py")
 
     elif choice == "0":
         print("Exiting toolkit...")
