@@ -18,22 +18,19 @@ git clone https://github.com/kaizenanonymous/recon-forge-toolkit.git
 Go to directory:
 
 cd recon-forge-toolkit
+cd 'recon-forge toolkit 
 
 Install dependencies:
 
 pip install -r requirements.txt
 
+run the tool :- 
+python main.py 
 ## ⚙️ Usage
-
-Run full scan:
-
-python main.py -d example.com --all
-
-Run specific modules:
-
-python main.py -d example.com --subdomains  
-python main.py -d example.com --admin  
-python main.py -d example.com --tech  
+just  run the tool by command python main.py 
+then select the tool you want to use 
+1,2,3,4,5 
+if you want to exit then just press 0 and enter
 
 ## ⚠️ Disclaimer
 
