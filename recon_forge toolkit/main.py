@@ -27,7 +27,7 @@ while True:
     choice = input("Select option: ")
 
     if choice == "1":
-        os.system("pytho3 tools/admin-finder/admin_finder.py")
+        os.system("python3 tools/admin-finder/admin_finder.py")
 
     elif choice == "2":
         os.system("python3 tools/subdomains_finder/sub_finder.py")
