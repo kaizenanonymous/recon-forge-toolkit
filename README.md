@@ -13,7 +13,7 @@ A multi-functional CLI toolkit for reconnaissance and basic security testing.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/recon-forge-toolkit.git
+git clone https://github.com/kaizenanonymous/recon-forge-toolkit.git
 
 Go to directory:
 
