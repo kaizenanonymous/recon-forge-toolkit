@@ -5,7 +5,7 @@ def banner():
     print("="*55)
     print("                SUBDOMAIN FINDER")
     print("           Find hidden subdomains")
-    print("              Dev by Anonymous Kaizen")
+    print("              Dev by VIROXEN")
     print("="*55)
 
 
