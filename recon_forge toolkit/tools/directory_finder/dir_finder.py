@@ -7,7 +7,7 @@ BANNER = """
 =======================================================
                 DIRECTORY FINDER PRO
            Smart Directory Discovery Tool
-              Dev by Anonymous Kaizen
+              Dev by Viroxen
 =======================================================
 """
 
