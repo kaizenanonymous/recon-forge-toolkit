@@ -5,7 +5,7 @@ def banner():
 =====================================================
                 RECONFORGE TOOLKIT
         Advanced Recon & Security Scanner 
-             Dev. By Anonymous Kaizen
+             Dev. By Viroxen
 =====================================================
 """)
 def menu():
