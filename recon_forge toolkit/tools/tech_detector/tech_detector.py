@@ -5,7 +5,7 @@ import os
 BANNER = """
 =======================================================
                      TECH DETECTOR 
-                Dev By ANONYMOUS KAIZEN
+                Dev By VIROXEN 
 =======================================================
 """
 
