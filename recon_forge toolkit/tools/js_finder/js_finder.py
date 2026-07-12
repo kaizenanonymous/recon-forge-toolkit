@@ -7,7 +7,7 @@ BANNER = """
 =======================================================
                  JS FILE FINDER find js files
 
-                 Dev by ANONYMOUS KAIZEN
+                 Dev by VIROXEN 
 =======================================================
 """
 
