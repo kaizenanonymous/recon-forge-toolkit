@@ -6,7 +6,7 @@ def banner():
     print("="*55)
     print("                ADMIN FINDER")
     print("        Detect Admin / Login Panels")
-    print("              Dev by Anonymous Kaizen")
+    print("              Dev by Viroxen")
     print("="*55)
 
 
